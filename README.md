@@ -57,14 +57,16 @@ uvicorn fastapi_app.main:app --reload --port 8001  # FastAPI (Port 8001)
 ## 🧩 Project Structure
 ```
 CineMatch/
-├── django_project/     # Django core (settings, routing)
-├── recommendations/    # Recommendation logic (models, views)
-├── users/              # User management
-├── fastapi_app/        # API services
-├── ml_models/          # ML models
+├── venv/ # Python virtual environment
+├── django_project/ # Django root
+│ ├── config/ # Project config
+│ ├── recommendations/ # Recsys logic
+| ├── users/ # User management
+│ └── manage.py
+├── fastapi_app/ # API endpoints
+├── ml_models/ # ML models
 ├── .gitignore
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ---
