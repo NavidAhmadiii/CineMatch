@@ -1,5 +1,5 @@
 ```markdown
-# 🎬 CineMatch: Intelligent Movie & Series Recommendation System
+#🎬 CineMatch: Intelligent Movie & Series Recommendation System
 
 **CineMatch** is a smart movie/series recommendation platform that combines **Django**, **FastAPI**, and **Machine Learning** to deliver personalized viewing experiences.
 
@@ -54,7 +54,7 @@ uvicorn fastapi_app.main:app --reload --port 8001  # FastAPI (Port 8001)
 ```
 
 ---
-
+```
 ## 🧩 Project Structure
 ```
 CineMatch/
