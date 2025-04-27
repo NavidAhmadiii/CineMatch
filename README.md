@@ -30,7 +30,7 @@
 ### Setup Instructions
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/CineMatch.git
+git clone https://github.com/NavidAhmadiii/CineMatch.git
 cd CineMatch
 
 # 2. Create and activate virtual environment
