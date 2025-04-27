@@ -1,5 +1,3 @@
-
-```markdown
 # 🎬 CineMatch: Intelligent Movie & Series Recommendation System
 
 **CineMatch** is a smart movie/series recommendation platform that combines **Django**, **FastAPI**, and **Machine Learning** to deliver personalized viewing experiences.
@@ -150,4 +148,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 - [Django Documentation](https://docs.djangoproject.com/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Surprise Recommendation Library](https://surpriselib.com/)
-```
